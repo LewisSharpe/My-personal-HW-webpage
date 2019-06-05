@@ -1,0 +1,128 @@
+.output {
+    font:  .9rem/1.5 sans-serif;
+}
+
+blockquote {
+    margin: 0;
+}
+
+p {
+    margin: .2rem;
+}
+
+.warning {
+    border: 10px ridge #000000;
+    background-color: #ffff00;
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.warning img {
+    width: 35%;
+}
+
+.warning p {
+     font: normal 100% Arial, Helvetica, sans-serif;
+    }
+
+cite {
+    font-size: .8rem;
+}
+
+.intro {
+    border: 10px ridge #000000;
+    background-color: #FFA200;
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.intro p {
+    font: normal 100% Arial, Helvetica, sans-serif;
+}
+
+.int {
+    border: 10px ridge #000000;
+    background-color: #00DEFF;
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.int p {
+    font: normal 100% Arial, Helvetica, sans-serif;
+}
+
+
+.adv {
+    border: 10px ridge #000000;
+    background-color: #82FF79;
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.adv p {
+    font: normal 100% Arial, Helvetica, sans-serif;
+   }
+
+
+.further {
+    border: 10px ridge #000000;
+    background-color: #E58CD0;
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.further p {
+    font: normal 100% Arial, Helvetica, sans-serif;
+    }
+
+.outcomes {
+    border: 10px ridge #000000;
+    background-color: #DE4564;
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.outcomes p {
+    font: normal 100% Arial, Helvetica, sans-serif;
+   }
+
+.aims {
+    border: 10px ridge #000000;
+    background-color: #D8D8D8;
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.aims p {
+    font: normal 100% Arial, Helvetica, sans-serif;
+   }
+
+    #wrapper {
+    width:1024px;
+    margin:0 auto;
+    }
+    /* the above are the ie fixes */
+
+    /* set the width of the container div to fit the needs of your page */
+    #bulletcontainer {
+    width:500px;
+    }
+
+    #bulletwidth {
+    width:250px;
+    }
+
+    .leftbullet {
+    float:left;
+    }
+    .rightbullet {
+    float:right;
+    }
+
